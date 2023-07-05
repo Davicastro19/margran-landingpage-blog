@@ -1,12 +1,13 @@
 {
-  "name": "lp-pisos",
+  "name": "margran-landingpage-blog",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "slicemachine": "start-slicemachine"
   },
   "dependencies": {
     "@chakra-ui/react": "^2.7.1",
@@ -17,7 +18,7 @@
     "@types/react-dom": "18.2.6",
     "eslint": "8.43.0",
     "eslint-config-next": "13.4.7",
-    "framer-motion": "^10.12.17",
+    "framer-motion": "^10.12.18",
     "next": "13.4.7",
     "react": "18.2.0",
     "react-dom": "18.2.0",
